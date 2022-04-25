@@ -1,0 +1,7 @@
+{
+  "name": "newonenw",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
